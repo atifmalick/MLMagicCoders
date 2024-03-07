@@ -1,6 +1,0 @@
-numpy
-streamlit
-keras
-opencv-contrib-python-headless
-tensorflow-cpu
-streamlit_webrtc
