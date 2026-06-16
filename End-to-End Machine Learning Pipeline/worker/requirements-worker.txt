@@ -1,0 +1,6 @@
+# Worker Dependencies — lock these versions for production
+transformers==4.45.2
+torch==2.4.1
+requests==2.32.3
+sentencepiece==0.2.0
+accelerate==0.34.2
